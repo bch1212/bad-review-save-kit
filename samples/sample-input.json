@@ -1,0 +1,25 @@
+{
+  "business_name": "Northside Auto Care",
+  "owner_name": "Sam",
+  "contact_method": "sam@example.com or (555) 010-1234",
+  "reviews": [
+    {
+      "reviewer_name": "Jordan",
+      "rating": 2,
+      "theme": "delay",
+      "review_text": "Waited all afternoon and nobody called until after the appointment window. Wasted my day."
+    },
+    {
+      "reviewer_name": "Taylor",
+      "rating": 1,
+      "theme": "quality",
+      "review_text": "The job looked rushed and I had to redo part of it myself."
+    },
+    {
+      "reviewer_name": "Morgan",
+      "rating": 3,
+      "theme": "price",
+      "review_text": "Quoted one thing then charged more. Never using them again."
+    }
+  ]
+}
