@@ -18,7 +18,7 @@ Turn unanswered or tense negative reviews into calm public replies plus a 30-day
 - Owner checklist for future reviews.
 - 48-hour turnaround after intake.
 
-### $399 Concierge Save Sprint
+### $399 Concierge Save Package
 
 - Up to 20 custom public review replies.
 - Recovery and review request workflow customized to the business.

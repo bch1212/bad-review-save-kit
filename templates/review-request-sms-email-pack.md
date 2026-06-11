@@ -19,7 +19,7 @@ Hi {{customer_name}}, this is {{owner_name}} from {{business_name}}. I saw your 
 
 ## Day 7: happy-customer review request SMS
 
-Hi {{customer_name}}, thanks again for choosing {{business_name}}. If everything went well, would you be willing to leave a quick review? It helps local customers know what to expect: {{review_link}}. Thank you — {{owner_name}}
+Hi {{customer_name}}, thanks again for choosing {{business_name}}. If everything went well, would you be willing to leave a quick review? It helps local customers know what to expect: {{review_link}}. Thank you - {{owner_name}}
 
 ## Day 14: email review request
 

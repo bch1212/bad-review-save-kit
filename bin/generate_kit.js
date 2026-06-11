@@ -17,7 +17,7 @@ function responseFor(review) {
   return (templates[review.theme] || templates.generic)(review);
 }
 const now = new Date().toISOString();
-let md = `# Bad Review Save Kit — ${data.business_name}\n\nGenerated: ${now}\n\nCommunication drafts only; owner should verify facts before posting. No review outcome guarantees.\n\n## Public review replies\n\n`;
+let md = `# Bad Review Save Kit - ${data.business_name}\n\nGenerated: ${now}\n\nCommunication drafts only; owner should verify facts before posting. No review outcome guarantees.\n\n## Public review replies\n\n`;
 for (const review of data.reviews) {
   md += `### ${review.rating}-star review from ${review.reviewer_name}\n\n> ${review.review_text}\n\n**Suggested public response:**\n\n${responseFor(review)}\n\n`;
 }

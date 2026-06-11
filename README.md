@@ -12,7 +12,7 @@ A same-day review response and reputation recovery kit for local service busines
 
 **Price anchor:**
 - $199 Custom Save Kit: 10 review responses + private recovery scripts + review request templates.
-- $399 Concierge Save Sprint: 20 responses + 30-day workflow + posting checklist.
+- $399 Concierge Save Package: 20 responses + 30-day workflow + posting checklist.
 
 **Guarantee boundaries:** If the first draft is not usable, one revision is included. No guarantee of review removal, star-rating changes, platform outcomes, or legal/compliance advice.
 
@@ -20,14 +20,14 @@ A same-day review response and reputation recovery kit for local service busines
 
 ## MVP contents
 
-- `templates/response-template-library.md` — reusable response patterns.
-- `templates/review-request-sms-email-pack.md` — 30-day review request/recovery workflow.
-- `templates/client-intake.md` — buyer intake form.
-- `samples/sample-before-after.md` — anonymized examples.
-- `bin/generate_kit.js` — local generator for a prospect-specific kit.
-- `reports/generated-sample-kit.md` — verified generated sample output.
-- `sales/offer.md` and `gtm/outreach-drafts.md` — sales copy and outreach.
-- `public/index.html` — static landing page.
+- `templates/response-template-library.md` - reusable response patterns.
+- `templates/review-request-sms-email-pack.md` - 30-day review request/recovery workflow.
+- `templates/client-intake.md` - buyer intake form.
+- `samples/sample-before-after.md` - anonymized examples.
+- `bin/generate_kit.js` - local generator for a prospect-specific kit.
+- `reports/generated-sample-kit.md` - verified generated sample output.
+- `sales/offer.md` and `gtm/outreach-drafts.md` - sales copy and outreach.
+- `public/index.html` - static landing page.
 
 ## Verification
 

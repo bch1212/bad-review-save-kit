@@ -1,4 +1,4 @@
-# Bad Review Save Kit — Northside Auto Care
+# Bad Review Save Kit - Northside Auto Care
 
 Generated: 2026-06-11T10:55:18.522Z
 
